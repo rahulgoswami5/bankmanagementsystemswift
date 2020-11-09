@@ -1,0 +1,8 @@
+616161,Kim,Current,40
+717171,Jaz,Current,10
+515151,Paul,Fixed,25
+212121,Hery,Current,15
+313131,Lara,Savings,50
+414141,John,Current,30
+919191,Alex,Fixed Deposit,40
+818181,Maria,Savings,100
